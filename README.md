@@ -1,1 +1,1 @@
-# grant-finder-ai
+GrantFinder AI is an intelligent, AI-powered tool designed to streamline the grant discovery process. It scans multiple funding databases, matches opportunities to your specific needs, and predicts the likelihood of success for each grant. The model continuously learns from user interactions to improve recommendations over time. With automated search, smart filtering, and personalized suggestions, GrantFinder AI helps researchers, nonprofits, and organizations find the most relevant and high-potential grants—faster and more efficiently than ever before.
